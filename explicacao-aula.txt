@@ -1,0 +1,14 @@
+Iniciando projeto site com Gestsby
+
+Terminal
+npm init -y ("y" cria projeto sem perguntar nada)
+npm install react rect-dom gatsby
+
+
+Criar pastas e arquivo - src/pages/index.js
+
+Instalar o Tailwindcss e alguns plugins
+npm install tailwindcss gatsby-plugin-postcss gatsby-plugin-purgecss
+
+Favicon Pagina
+npm install react-helmet gatsby-plugin-helmet
